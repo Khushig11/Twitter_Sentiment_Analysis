@@ -9,6 +9,7 @@ Twitter sentiment analysis is a natural language processing (NLP) task that invo
 The project follows the following steps:
 
 Data Collection: Dataset from Kaggle was used.It contains tweets related to Pfizer & BioNTech vaccine.
+
 Dataset- https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweets 
 
 Data Preprocessing: Cleaning and preparing the tweet data for analysis. This involves removing special characters, hashtags, mentions, and links, as well as converting text to lowercase.
