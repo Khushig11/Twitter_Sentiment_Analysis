@@ -28,3 +28,6 @@ To replicate and run this project, you will need the following dependencies:
 -Jupyter Notebook (for data exploration and analysis)
 
 -Libraries like NumPy, Pandas, Scikit-learn, PyTorch (or other deep learning frameworks) and NLTK (for NLP preprocessing)
+
+# Future Improvements
+Implement this model using Twitter API and create a Realtime Sentiment Analyzer 
